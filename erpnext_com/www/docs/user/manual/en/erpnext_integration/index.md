@@ -13,3 +13,4 @@
 - [Woocommerce Integration](/docs/user/manual/en/erpnext_integration/woocommerce_integration)
 - [Plaid Integration](/docs/user/manual/en/erpnext_integration/plaid_integration)
 - [Exotel Integration](/docs/user/manual/en/erpnext_integration/exotel_integration)
+- [Google Maps](/docs/user/manual/en/erpnext_integration/google_maps)
